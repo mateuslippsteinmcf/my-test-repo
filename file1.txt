@@ -1,1 +1,2 @@
 This is my complete class
+Implement the automatic synchronization
