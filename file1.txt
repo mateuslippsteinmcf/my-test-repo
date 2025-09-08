@@ -1,3 +1,2 @@
-This is my complete change
-Adding one missing part
-Change request
+This is my complete class
+Implement the automatic synchronization
